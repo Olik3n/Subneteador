@@ -23,14 +23,15 @@ Ejecuta el script pasando una dirección IP y la cantidad de hosts que necesitas
 python script.py <IP> <Cantidad de Hosts>
 `````
 
-🏗️ Cómo Funciona
-Calcula los bits necesarios para la cantidad de hosts.
-Obtiene la máscara de subred óptima usando la notación CIDR.
-Genera la dirección de red y broadcast para definir el rango.
-Muestra la cantidad de hosts utilizables dentro de la subred.
+## 🏗️ Cómo Funciona
 
-📜 Licencia
+* Calcula los bits necesarios para la cantidad de hosts.
+* Obtiene la máscara de subred óptima usando la notación CIDR.
+* Genera la dirección de red y broadcast para definir el rango.
+* Muestra la cantidad de hosts utilizables dentro de la subred.
+
+### 📜 Licencia
 Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente.
 
-✨ Autores
+### ✨ Autores
 @CraZyZkoLL
