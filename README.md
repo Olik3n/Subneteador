@@ -5,10 +5,11 @@
 Este script te proporciona información detallada sobre la máscara de subred, el CIDR, la dirección de red, el broadcast y el rango de hosts utilizables, ayudándote a optimizar la administración de redes.
 
 📌 Características
-✅ Calcula la máscara de subred óptima según el número de hosts.
-✅ Muestra la dirección de red y la dirección de broadcast.
-✅ Indica el rango de direcciones IP utilizables.
-✅ Fácil de usar y sin dependencias externas (usa solo la librería estándar de Python).
+
+* ✅ Calcula la máscara de subred óptima según el número de hosts.
+* ✅ Muestra la dirección de red y la dirección de broadcast.
+* ✅ Indica el rango de direcciones IP utilizables.
+* ✅ Fácil de usar y sin dependencias externas (usa solo la librería estándar de Python).
 
 🛠️ Instalación
 ````
