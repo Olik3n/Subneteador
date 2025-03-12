@@ -21,7 +21,8 @@ cd IP-Subnet-Calculator
 Ejecuta el script pasando una dirección IP y la cantidad de hosts que necesitas
 ````
 python script.py <IP> <Cantidad de Hosts>
-```
+`````
+
 🏗️ Cómo Funciona
 Calcula los bits necesarios para la cantidad de hosts.
 Obtiene la máscara de subred óptima usando la notación CIDR.
