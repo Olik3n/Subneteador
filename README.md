@@ -1,4 +1,5 @@
-📡 IP Subnet Calculator
+# 📡 IP Subnet Calculator
+
 🚀 IP Subnet Calculator es un script en Python diseñado para calcular de forma rápida y precisa la mejor subred para una dirección IP dada y una cantidad específica de hosts.
 
 Este script te proporciona información detallada sobre la máscara de subred, el CIDR, la dirección de red, el broadcast y el rango de hosts utilizables, ayudándote a optimizar la administración de redes.
@@ -13,7 +14,7 @@ Este script te proporciona información detallada sobre la máscara de subred, e
 ````
 git clone https://github.com/tuusuario/IP-Subnet-Calculator.git
 cd IP-Subnet-Calculator
-```
+`````
 
 ⚡ Uso
 Ejecuta el script pasando una dirección IP y la cantidad de hosts que necesitas
