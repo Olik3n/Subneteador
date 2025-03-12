@@ -14,6 +14,7 @@ Este script te proporciona información detallada sobre la máscara de subred, e
 git clone https://github.com/tuusuario/IP-Subnet-Calculator.git
 cd IP-Subnet-Calculator
 ```
+
 ⚡ Uso
 Ejecuta el script pasando una dirección IP y la cantidad de hosts que necesitas
 ````
